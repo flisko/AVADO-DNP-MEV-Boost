@@ -1,7 +1,7 @@
 {
   "name": "mevboost.avado.dnp.dappnode.eth",
-  "version": "0.0.17",
-  "upstream": "v1.10.1",
+  "version": "0.0.18",
+  "upstream": "v1.12",
   "title": "MEV-Boost",
   "description": "MEV-Boost is an open source middleware run by validators to access a competitive block-building market.",
   "avatar": "/ipfs/QmQBBt5xcXnXqbAUjquHmrMkn9WwMuDRyVSMNdnkdLpvfV",
